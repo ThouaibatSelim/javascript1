@@ -34,6 +34,4 @@ let tripleegal = n1 === n2;
 
 let difference = multiplication != division;
 
-let bienvenue = tripleegal;
-
 alert (tripleegal);
