@@ -4,8 +4,6 @@
 
 // "If" (condition)
 
-
-
 // let note = 12 ;
 
 // if (note == 5);

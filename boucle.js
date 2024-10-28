@@ -17,7 +17,7 @@
 //     console.log("Le compteur est : ", compteur)
 // }
 
-let tableauxEleves = ["Fazati", "Dominique", "Kaniza", "Nadhurati", "Ben", "Ikbal", "Saïd", "Jasmine", "Tatyana", "Izad", "Faïz", "Nicia", "Dalya", "Akramal", "Kyara", "Soihiroudine", "Faoula", "Ambdil", "Thouaïbat"]
+let tableauxEleves = ["Fazati", "Dominique", "Kaniza", "Nadhurati", "Ben Raphael", "Ben Ikbal", "Saïd", "Jasmine", "Tatyana", "Izad", "Faïz", "Nicia", "Dalya", "Akramal", "Kyara", "Soihiroudine", "Faoula", "Ambdil", "Thouaïbat"]
 
 console.log (tableauxEleves[0]);
 console.log (tableauxEleves[1]);
